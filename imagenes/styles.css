@@ -1,0 +1,41 @@
+
+.nav-item:hover{
+    background-color: rgb(162, 133, 175);
+}
+
+@media screen and (max-width:650px){
+    header{
+        background-color: lightblue;)
+    }
+
+}
+img{
+    width:90%;
+}
+.row{
+    padding:5%;
+}
+
+p{
+    text-align:center;
+   
+}
+#violet{
+    color:rgb(78, 30, 122);
+    font-family: monospace;
+    line-height: 2.1;
+ }
+#green{
+ color:rgb(45, 98, 105);
+ font: oblique bold 120% cursive;
+}
+.center{
+    text-align: center;
+    color:rgb(138, 31, 63)
+}
+h5,h6{
+    text-align: justify;
+    color: rgb(69, 79, 80);
+}
+            
+        

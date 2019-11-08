@@ -1,0 +1,15 @@
+$color1: blue;
+header{
+    height:40%;
+    background-image: image(vane.JPG);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: 60%;
+}
+
+%table-head{
+    color: $color1;
+}
+th{
+    @extend %thead;
+}
